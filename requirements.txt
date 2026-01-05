@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+flask
+yt-dlp
+ffmpeg-python
+pymongo
+dnspython
+certifi
